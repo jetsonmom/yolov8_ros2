@@ -131,3 +131,4 @@ jetson@nano:~/ros2_ws$ ros2 node list
 /yolo/debug_node
 /yolo/tracking_node
 /yolo/yolov8_node
+!![Screenshot from 2024-03-25 10-17-37](https://github.com/jetsonmom/yolov8_ros2/assets/92077615/798a247b-f6f5-4926-843a-ca6656860568)
